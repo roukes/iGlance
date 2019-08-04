@@ -5,24 +5,21 @@ about: Create a report to help us improve
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+Temperature reads negative.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Nothing much... just installed the app.
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+Well, positive temperatures would be more believable!
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Version of the app: [e.g. 22]
+ - OS: Mac OS X Mojave 
+ - Version of the app: v 10.14.6 (18G84)
 
 **Additional context**
 Add any other context about the problem here.
